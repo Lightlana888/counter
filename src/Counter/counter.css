@@ -1,0 +1,9 @@
+.button {
+    background-color: aqua;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10px;
+    border: none;
+    font-size: 34px;
+    color: rgb(0, 107, 126);
+}
